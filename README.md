@@ -1,4 +1,11 @@
-\# Hi, I'm Gopika A! 👋
+<p align="center">
+  <img src="./github%20banner.svg" width="100%" alt="Gopika A Banner">
+</p>
+
+<br>
+
+# Hi, I am Gopika A! 👋
+### UI/UX Enthusiast | Aspiring Web Developer | AI & Data Science Student
 
 
 
@@ -92,7 +99,7 @@ I'm an enthusiastic AI \& Data Science student interested in building intelligen
 
 \- \*\*LinkedIn:\*\* https://www.linkedin.com/in/gopika-anbu
 
-\- \*\*GitHub:\*\* https://github.com/gopikaanbu1690-sys
+\- \*\*GitHub:\*\* https://github.com/gopikaanbu-dev
 
 
 

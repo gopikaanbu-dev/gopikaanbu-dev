@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-banner.svg" width="100%" alt="Gopika A Banner">
+  <img src="./github%20banner.svg" width="100%" alt="Gopika A Banner">
 </p>
 
 # Hi, I'm Gopika A 👋
